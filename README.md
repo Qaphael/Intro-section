@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Qaphael/Intro-section](https://your-solution-url.com)
+- Live Site URL: [https://qaphael.github.io/Intro-section/](https://your-live-site-url.com)
 
 ## My process
 
